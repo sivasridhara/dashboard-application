@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/dashboard-application.iml" filepath="$PROJECT_DIR$/.idea/dashboard-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dashboard-services/dashboard-services.iml" filepath="$PROJECT_DIR$/dashboard-services/dashboard-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dashboard-ui/dashboard-ui.iml" filepath="$PROJECT_DIR$/dashboard-ui/dashboard-ui.iml" />
+    </modules>
+  </component>
+</project>
